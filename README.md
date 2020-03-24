@@ -1,2 +1,2 @@
 # JavaScript
-Examples 
+Examples array functions
